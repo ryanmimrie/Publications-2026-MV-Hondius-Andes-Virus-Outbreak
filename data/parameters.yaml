@@ -1,0 +1,59 @@
+model_MV:
+    start_date: 2026-04-01
+    end_date: 2026-05-11
+
+model_UK:
+    max_duration: 365
+
+cabins:
+    passenger_cabins_twin: 74
+    passenger_cabins_triple: 2
+    passenger_cabins_quad: 4
+    crew_cabins_single: 3
+    crew_cabins_twin: 38
+
+progression:
+    f_inc_meanlog: 2.910103
+    f_inc_sdlog: 0.3184045
+    f_pro_shape: 3.448624
+    f_pro_scale: 4.795084
+    f_HPS_meanlog: 2.870354
+    f_HPS_sdlog: 0.6004054
+    CFR_low: 0.20
+    CFR_exp: 0.25
+    CFR_high: 0.50
+
+contacts_MV:
+    group_contacts: 12
+    unique_nongroup_contacts_meanlog: 2.654002
+    unique_nongroup_contacts_sdlog: 0.8045184 
+    confinement_start_date: 2026-05-02
+    
+contacts_UK:
+  Age_0_4:
+    Age_0_4: 1.76
+    Age_5_18: 1.22
+    Age_19_64: 3.83
+    Age_65_plus: 0.314
+  Age_5_18:
+    Age_0_4: 0.378
+    Age_5_18: 7.20
+    Age_19_64: 4.45
+    Age_65_plus: 0.494
+  Age_19_64:
+    Age_0_4: 0.334
+    Age_5_18: 1.24
+    Age_19_64: 4.77
+    Age_65_plus: 0.535
+  Age_65_plus:
+    Age_0_4: 0.0854
+    Age_5_18: 0.431
+    Age_19_64: 1.67
+    Age_65_plus: 1.07
+    
+UK_population:
+    Age_0_4: 3574156
+    Age_5_18: 11491944
+    Age_19_64: 41053671
+    Age_65_plus: 13161666
+    

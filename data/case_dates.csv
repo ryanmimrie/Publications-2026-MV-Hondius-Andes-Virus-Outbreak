@@ -1,0 +1,13 @@
+﻿Case,Sex,Age,Exposure_max,Exposure_min,Symptom_onset,Hospitalisation,Death,Embarked,Disembarked,Suspected_case,Lab_confirmed,Report_date,Reference,Notes
+1,M,70,27/03/2026,28/03/2026,03/04/2026,NA,11/04/2026,01/04/2026,NA,Primary,FALSE,15/05/2026,WHO 15th May Report,Initial case
+2,F,69,06/04/2026,11/04/2026,22/04/2026,NA,26/04/2026,01/04/2026,24/04/2026,Secondary,TRUE,15/05/2026,WHO 15th May Report,Travelled with initial case
+3,M,60,06/04/2026,11/04/2026,21/04/2026,27/04/2026,NA,01/04/2026,27/04/2026,Secondary,TRUE,15/05/2026,WHO 15th May Report,Passenger
+4,F,80,06/04/2026,11/04/2026,23/04/2026,NA,02/05/2026,01/04/2026,NA,Secondary,TRUE,15/05/2026,WHO 15th May Report,"Passenger, berthed two cabins away from cases 1 & 2"
+5,M,41,06/04/2026,11/04/2026,30/04/2026,06/05/2026,NA,01/04/2026,06/05/2026,Secondary,TRUE,15/05/2026,WHO 15th May Report,Ship's doctor
+6,M,56,06/04/2026,11/04/2026,01/05/2026,06/05/2026,NA,01/04/2026,06/05/2026,Secondary,TRUE,15/05/2026,WHO 15th May Report,Guide (unclear if expedition leader)
+7,M,64,06/04/2026,11/04/2026,01/05/2026,04/05/2026,NA,01/04/2026,24/04/2026,Secondary,TRUE,15/05/2026,WHO 15th May Report,Passenger
+8,M,65,06/04/2026,11/04/2026,28/04/2026,02/05/2026,NA,01/04/2026,15/04/2026,Secondary,FALSE,15/05/2026,WHO 15th May Report,Passenger
+9,F,73,21/04/2026,06/05/2026,10/05/2026,11/05/2026,NA,01/04/2026,10/05/2026,Tertiary,TRUE,15/05/2026,WHO 15th May Report,Passenger
+10,M,70,21/04/2026,06/05/2026,12/05/2026,13/05/2026,NA,01/04/2026,11/05/2026,Tertiary,TRUE,15/05/2026,WHO 15th May Report,Passenger
+11,F,70+,21/04/2026,06/05/2026,14/05/2026,15/05/2026,NA,01/04/2026,10/05/2026,Tertiary,TRUE,17/05/2026,Government of British Columbia News Conference,Passenger
+12,NA,NA,21/04/2026,06/05/2026,22/05/2026,22/05/2026,NA,01/04/2026,11/05/2026,Tertiary,TRUE,23/05/2026,https://berthub.eu/tkconv/document.html?nummer=2026D24396,"Crew, symptom onset date unspecified, assumed to be date of hospitalisation"
