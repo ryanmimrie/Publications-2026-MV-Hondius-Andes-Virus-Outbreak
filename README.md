@@ -10,6 +10,10 @@ This repository contains data, code, and models used in Imrie & Illingworth (202
 ![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
 
 ### Dependencies
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-version_here-yellow)
+![pandas](https://img.shields.io/badge/pandas-version_here-yellow)
+
 ![R Version](https://img.shields.io/badge/R-4.4.2-blue)
 ![tidyverse](https://img.shields.io/badge/tidyverse-2.0.0-blue)
 
