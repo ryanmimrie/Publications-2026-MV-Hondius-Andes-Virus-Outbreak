@@ -11,8 +11,8 @@ This repository contains data, code, and models used in Imrie & Illingworth (202
 
 ### Dependencies
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-version_here-yellow)
-![pandas](https://img.shields.io/badge/pandas-version_here-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-2.3.5-yellow)
+![pandas](https://img.shields.io/badge/pandas-2.3.3-yellow)
 
 ![R Version](https://img.shields.io/badge/R-4.4.2-blue)
 ![tidyverse](https://img.shields.io/badge/tidyverse-2.0.0-blue)
